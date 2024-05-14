@@ -13,7 +13,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         // Lock the cursor to the center of the screen and make it invisible
-        Cursor.lockState = CursorLockMode.Locked;
+        //Cursor.lockState = CursorLockMode.Locked;
     }
 
     private void Update()
