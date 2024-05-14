@@ -13,7 +13,7 @@ public class InfoPlaqueButton : MonoBehaviour
         if (detailPanel.activeInHierarchy == false)
         {
             detailPanel.SetActive(true);
-            Debug.Log("erscheitn");
+            Debug.Log("erscheint");
         }
         else
         {
@@ -28,7 +28,7 @@ public class InfoPlaqueButton : MonoBehaviour
         if (detailPanel.activeInHierarchy == false)
         {
             detailPanel.SetActive(true);
-            Debug.Log("erscheitn");
+            Debug.Log("erscheint");
         }
         else
         {
